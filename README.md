@@ -9,7 +9,7 @@
       
 -----
 
-This 2-hour workshop was created to demonstrate the ability to build and deploy machinelearning models to the edge using [AWS DeepLens](https://aws.amazon.com/deeplens/).  The final module (optional - pending time) demonstrates the ability to build and deploy your own model to your DeepLens device. 
+This 2-hour workshop was created to demonstrate the ability to build and deploy machine learning models to the edge using [AWS DeepLens](https://aws.amazon.com/deeplens/).  The final module (optional - pending time) demonstrates the ability to build and deploy your own model to your DeepLens device. 
 
 ## Workshop Modules:
 
