@@ -1,4 +1,4 @@
-# Pre-Requisites & Getting to know your Deep Lens
+# Getting to know your Deep Lens
 
 ## 1- Get to know your Device
   
@@ -30,14 +30,7 @@ The AWS DeepLens camera includes the following:
 
 The AWS DeepLens camera is powered by an Intel® Atom Processor, which can process 100 billion floating-point operations per second (GFLOPS). This gives you all of the compute power that you need to perform inference on your device. The micro HDMI display port, audio out, and USB ports allow you to attach peripherals, so you can get creative with your computer vision applications.
 
-## 3 - Learning Objectives of This Lab
-
-In this lab you will learn the following:
-
-- Registering your Deeplens device
-- Setting up pre-requisites required for today's labs
-
-### Registering your device:
+## 3 - Registering your device:
 
 **Note**: When working with a new Deep Lens device there is a process required to register your device.  **For this workshop we have pre-registered your devices to save time**
 
