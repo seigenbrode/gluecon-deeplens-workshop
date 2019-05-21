@@ -5,7 +5,7 @@ In this section of the workshop, we are going to train a custom model using Amaz
 AWS DeepLens for inference at the edge.  We are going to use MXNet Deep Learning framework with a pretrained [SqueezeNet](https://arxiv.org/abs/1602.07360) image classification model to build/train our own 
 classifier for identifying hot dogs. 
 
-![](images/hotdog.png)
+![](images/hotdog.jpg)
 
 The basic steps involved include: 
 
