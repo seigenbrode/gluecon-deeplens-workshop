@@ -6,7 +6,7 @@ AWS DeepLens is a wireless video camera and API. It shows you how to use the lat
 
 The AWS DeepLens camera, or device, uses deep convolutional neural networks (CNNs) to analyze visual imagery. You use the device as a development environment to build computer vision applications.
 
-![AWS DeepLens](assets/dlgeneral.png)
+![AWS DeepLens](images/dlgeneral.png)
 
 AWS DeepLens is optimized for Apache MXNet. You can also use other AWS services with DeepLens including:
 - [Amazon SageMaker](https://aws.amazon.com/sagemaker/), for model training and validation
@@ -26,7 +26,7 @@ The AWS DeepLens camera includes the following:
 - A micro HDMI display port
 - Audio out and USB ports
 
-![](assets/deeplens-device-view-front-back.png)
+![](images/deeplens-device-view-front-back.png)
 
 The AWS DeepLens camera is powered by an Intel® Atom Processor, which can process 100 billion floating-point operations per second (GFLOPS). This gives you all of the compute power that you need to perform inference on your device. The micro HDMI display port, audio out, and USB ports allow you to attach peripherals, so you can get creative with your computer vision applications.
 
@@ -43,5 +43,5 @@ In this lab you will learn the following:
 
 If you are interested in exploring the DeepLens registration process after this lab, you are encouraged to explore the detailed documentation for [registering your AWS DeepLens](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-getting-started-register.html).
 
-### Pre-Requisites:
+
 
