@@ -25,5 +25,7 @@ The basic steps involved include:
 ## Import Model to AWS DeepLens
 
  1. Follow the steps outlined in [**STEP 4. Import the model to AWS DeepLens**](https://aws.amazon.com/getting-started/tutorials/build-deeplens-project-sagemaker/) to *Import and configure an external notebook*
+ 
+ *Note:* When importing the model choose MXNet as the **Model Framework**
 
 ## Evaluate Model Performance
