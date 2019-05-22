@@ -25,7 +25,7 @@ The basic steps involved include:
 ## Import Model to AWS DeepLens
 
  1. Follow the steps outlined in [Import Your Amazon SageMaker Trained Model](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-import-from-sagemaker.html) to import your model to DeepLens.
- 2. Follow the steps outlined in [Create and Publish an Inference Lambda Function](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-inference-lambda-create.html) to create the function that will run on your DeepLens.  Use the code in the file `lambda.py` for the function.
+ 2. Follow steps 1 thru 8 outlined in [Create and Publish an Inference Lambda Function](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-inference-lambda-create.html) to create the function that will run on your DeepLens.  Use the code in the file `lambda.py` for the function code (replace the code in greengrassHelloWorld.py with the code from lambda.py)
  3. Follow the steps outlined in [Create and Deploy a Custom AWS DeepLens Project](https://docs.aws.amazon.com/deeplens/latest/dg/deeplens-create-custom-project.html) to publish your new project to the DeepLens.
  
  *Note:* When importing the model choose MXNet as the **Model Framework**
