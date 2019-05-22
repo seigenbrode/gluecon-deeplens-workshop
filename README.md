@@ -17,5 +17,5 @@ This 2-hour workshop was created to demonstrate the ability to build and deploy 
 
 2 - [Object Detection with DeepLens](../master/2-Object-Detection/README.md) - (40 Minutes) 
 
-3 - [Build Image Classification Model w/ Amazon SageMaker](../master/3-Build-Your-Own-Model/README.md) - *Optional* (40 Minutes) 
+3 - [Build Image Classification Model w/ Amazon SageMaker](../master/3-Bring-Your-Own-Model/README.md) - *Optional* (40 Minutes) 
 
