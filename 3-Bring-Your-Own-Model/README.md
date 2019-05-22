@@ -3,7 +3,11 @@
 ## Module Objective
 In this section of the workshop, we are going to train a custom model using Amazon SageMaker and then deploy that model to
 AWS DeepLens for inference at the edge.  We are going to use MXNet Deep Learning framework with a pretrained ResNet model
-and build a classifier for the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) data set.
+and build a classifier for the [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) data set.  
+
+The CIFAR-10 dataset contains images across 10 classes noted below:
+
+![](images/CIFAR.png)
 
 The basic steps involved include: 
 
